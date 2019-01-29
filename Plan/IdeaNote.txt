@@ -1,0 +1,13 @@
+<Discussion> (01.29.19. 23:30)
+
+1) What is First?
+
+  i) RSS to Display
+  ii) Pressure Sensor to On/Off Switch
+  iii) On/Off Switch to RSS System
+
+2) What do I need?
+  (1) Arduino (Orange board, Wifi shield, I2C interface module, LCD,  Wemos D1 mini, Pressure Sensor)
+  (2) Mat
+  (3) API Number
+  
