@@ -1,0 +1,9 @@
+step1) Check RSS on Agency
+http://www.kma.go.kr/index.jsp
+
+step2) Analysis Wi-Fi API
+WiFi.mode(WIFI_STA); //Reset
+WiFi.begin(said, password);  //접속ID, PW 승인
+WiFi.status(); // Check status
+client.connect(host, httpPort); //서버 접속요청
+client.readStringUntil(‘\n’) 
