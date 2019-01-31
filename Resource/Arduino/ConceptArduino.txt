@@ -1,0 +1,45 @@
+step1) Check RSS on Agency
+http://www.kma.go.kr/index.jsp
+
+step2) Analysis Wi-Fi API
+WiFi.mode(WIFI_STA); //Reset
+WiFi.begin(said, password);  //접속ID, PW 승인
+WiFi.status(); // Check status
+client.connect(host, httpPort); //서버 접속요청
+client.readStringUntil(‘\n’) 
+
+https://kocoafab.cc/make/view/359
+https://kocoafab.cc/tutorial/view/654
+
+*Make an Alarm System*
+https://www.youtube.com/watch?v=JHEGluBjFDA
+
+
+*Alarm Cushion Project*
+https://kocoafab.cc/make/view/216
+Materials: Arduino pro mini, Pressure Sensor, Piezo Buzzer, Jumper Cable, 220Ω Resistance, Lithium Battery
+-> Concepts of this Project.
+
+*Weather Board Project*
+https://kocoafab.cc/make/view/596
+
+*Weather Cube Project*
+https://kocoafab.cc/make/view/524
+
+
+**Reference of Reference**
+
+*Display on Web*
+https://kocoafab.cc/tutorial/view/650
+
+*Steps Project*
+https://kocoafab.cc/make/view/499
+
+*Expanded Idea - Control LED Cube*
+https://kocoafab.cc/make/view/635
+
+*Radio Service Project*
+https://kocoafab.cc/make/view/516
+
+*Ctrl + S Project*
+https://kocoafab.cc/make/view/645
