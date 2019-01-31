@@ -1,4 +1,4 @@
-# SMAT(Smart Mat)
+# SMAT(Smart Mat) (init 01.25.19)
 > For Ordinary Person & Blind Person
 
 * Arduino Project
@@ -7,7 +7,7 @@
   * RSS - Weather Agency
   
 * Raspberry Pi Project (01.31.19. 19:00)
-  * > Consider switching to raspberry pie
+  * > Consider switching to raspberry pi
 
 
 * Product Description
