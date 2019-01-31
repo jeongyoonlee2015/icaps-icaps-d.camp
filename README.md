@@ -5,6 +5,10 @@
   * Mat
   * LCD
   * RSS - Weather Agency
+  
+* Raspberry Pi Project (01.31.19. 19:00)
+  * > Consider switching to raspberry pie
+
 
 * Product Description
 
