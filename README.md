@@ -1,4 +1,22 @@
 # SMAT(Smart Mat) (init 01.25.19)
+## I-Caps
+The International Students Joint Capstone Design Project (i-CAPS).
+
+
+The i-CAPS program and the  which include International Students Multidisciplinary Design Camps (d-CAMP) is a collaboration program involving 
+* 18 Universities in 6 Countries
+  * Institut Teknologi Bandung (Indonesia)
+  * Universiti Kebangsaan Malaysia (Malaysia)
+  * Nanyang Technological University (Singapore)
+  * Tianjin University (China)
+  * National Cheng Kung University (Taiwan)
+  * Chonbuk National University (Korea - HICEE)
+  * A consortium of 13 Korean universities(headquartered in Chonbuk National University)
+
+----
+
+## SMART Living
+
 > For Ordinary Person & Blind Person
 
 * Arduino Project
