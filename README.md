@@ -48,3 +48,6 @@ The i-CAPS program and the  which include International Students Multidisciplina
   * [Similar Product](https://www.geeky-gadgets.com/smartmat-the-connected-door-mat-25-03-2014/)
   * [Kocoafab Tutorial](https://kocoafab.cc/tutorial/view/595)
   * [Circuit Simulating](https://www.tinkercad.com/things/6VZ8ewfz5qE-start-simulating/editel?collectionid=OIYJ88OJ3OPN3EA&lessonid=EHD2303J3YPUS5Z&magic=fea420dba067cf0cd52378305ce02fb0d680515b&projectid=OIYJ88OJ3OPN3EA&t=1548925471689927833&tenant=circuits#/lesson-viewer)
+  
+  
+> Another Resource <br> [HackerShack git](https://github.com/HackerShackOfficial/Smart-Mirror) <br> [DHS연구소](https://dhslab.modoo.at/)
