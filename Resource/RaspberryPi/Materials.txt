@@ -8,3 +8,10 @@ http://www.icbanq.com/
 
 * Half Mirror Film (25)
 http://bitly.kr/SE3Tv
+
+
+Reference
+https://blog.psangwoo.com/making/2017/06/28/smart-mirror-2-api.html
+https://steemkr.com/kr-dev/@duswnd25/smart-mirror-end
+https://ukayzm.github.io/installing-google-assistant/
+https://jeongchul.tistory.com/482
