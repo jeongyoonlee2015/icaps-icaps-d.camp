@@ -47,6 +47,21 @@ The i-CAPS program and the  which include International Students Multidisciplina
   * Basic Configuration ( Wi-Fi, Language, etc)
   * Essential Elements : Forecast, Alarm, Schedule(Google Account)
 
+* Feedback
+  * 1st Presentation
+   1.	Maybe can have some personal schedule in the display panel
+   2.	Display the weight and keep the data recorded for the future reference
+   3.	Adding a foot print sensor into the floor mat to indicate the standing posture of the user
+   
+   
+  * 2nd Presentation
+   1. LRC and WBS were impressive.
+  
+  
+  * Next Goals: 2nd Presentation (1st interim video conference) was process oriented presentation.
+   3nd Presentation( 2nd interim video conference) will be implementation product oriented presentation.
+
+
 * Reference
   * [Electronic Circuit Simulator](https://www.multisim.com/)
   * [Weather RSS](http://www.weather.go.kr/weather/lifenindustry/sevice_rss.jsp)
