@@ -36,12 +36,16 @@ The i-CAPS program and the  which include International Students Multidisciplina
 * Schedule
   * 1st D.Camp : 01.20.19 - 01.25.19, NCKU, Tainan, Taiwan, `Off-line`
   * 1st Presentation : 01.26.19, NCKU, Tainan, Taiwan, `Off-line`
-  * 2nd Presentation : 04.11.19, `On-line`
+  * 2nd Presentation : 04.12.19, `On-line` (Team 11 Presenter: Luqman Hakimi)
   * 3rd Presentation : 05.23.19, `On-line`
   * Deadline : 08.00.19, `Product`
   * 2nd D.Camp : 08.00.19, South Korea, `Off-line`
------
   * Implementation : 04.14.19.
+
+* Work Flow
+  * Installation Raspbian
+  * Basic Configuration ( Wi-Fi, Language, etc)
+  * Essential Elements : Forecast, Alarm, Schedule(Google Account)
 
 * Reference
   * [Electronic Circuit Simulator](https://www.multisim.com/)
