@@ -43,9 +43,9 @@ The i-CAPS program and the  which include International Students Multidisciplina
   * Implementation : 04.14.19.
 
 * Work Flow
-  * Installation Raspbian
-  * Basic Configuration ( Wi-Fi, Language, etc)
-  * Essential Elements : Forecast, Alarm, Schedule(Google Account)
+  * Installation Raspbian(04.10.19.)
+  * Basic Configuration ( Wi-Fi, Language, etc)(04.14.19.)
+  * Essential Elements : Forecast, Alarm, Schedule(Google Account)(04.20.19.~)
 
 * Feedback
   * 1st Presentation
