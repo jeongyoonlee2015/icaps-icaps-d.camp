@@ -47,6 +47,7 @@ The i-CAPS program and the  which include International Students Multidisciplina
   * Basic Configuration ( Wi-Fi, Language, etc)(04.14.19.)
   * Essential Elements : Forecast, Alarm, Schedule(Google Account)(04.20.19.~)
   * Follow Evancohen's [Smart-mirror](https://docs.smart-mirror.io/#)
+    * https://docs.smart-mirror.io/docs/configuring_voice.html (04.26.2019)
 
 * Feedback
   * 1st Presentation
