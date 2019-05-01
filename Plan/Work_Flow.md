@@ -1,0 +1,12 @@
+# Work Flow
+
+* Installation Raspbian(04.10.19.)
+* Basic Configuration ( Wi-Fi, Language, etc)(04.14.19.)
+* Essential Elements : Forecast, Alarm, Schedule(Google Account)(04.20.19.~)
+* Follow Evancohen's [Smart-mirror](https://docs.smart-mirror.io/#)
+    * https://docs.smart-mirror.io/docs/configuring_voice.html (04.26.2019) : API Connecting Problem / Speach To Text
+* [Circuit Design (04.29.2019)](http://fritzing.org/download/)
+    * [Digi-key](https://www.digikey.kr/ko/resources/conversion-calculators/conversion-calculator-resistor-color-code-5-band)
+* Summary (~05.01.2019)
+    * Raspberry pi on LCD display: Don't think in a circuit. Focus on the internal system.
+    * Arduino of Mat: Think on a circuit but just simple.
