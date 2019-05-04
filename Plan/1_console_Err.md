@@ -22,6 +22,8 @@ v4.2.1
 
 ## [Why is Node always 4.2.1 with apt-get install?](https://www.raspberrypi.org/forums/viewtopic.php?t=205323)
 
-Ref. https://github.com/audstanley/NodeJs-Raspberry-Pi
+Ref.
 
+https://github.com/audstanley/NodeJs-Raspberry-Pi
 
+https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
