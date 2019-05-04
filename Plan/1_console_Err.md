@@ -14,3 +14,14 @@ SyntaxError: Block-scoped declarations (let, const, function, class) not yet sup
     at Function.Module.runMain (module.js:467:10)
     at startup (node.js:134:18)
     at node.js:961:3
+
+----------
+## [라즈베리파이 NodeJs 설치](https://blog.xcoda.net/99)
+node --version
+v4.2.1
+
+## [Why is Node always 4.2.1 with apt-get install?](https://www.raspberrypi.org/forums/viewtopic.php?t=205323)
+
+Ref. https://github.com/audstanley/NodeJs-Raspberry-Pi
+
+
