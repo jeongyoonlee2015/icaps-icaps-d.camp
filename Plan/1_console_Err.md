@@ -27,3 +27,29 @@ Ref.
 https://github.com/audstanley/NodeJs-Raspberry-Pi
 
 https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
+
+
+
+--------
+2019.05.07
+<Automatic Installation>
+Execute the following command on your Raspberry Pi to install MagicMirror²:
+      
+`bash -c "$(curl -sL https://raw.githubusercontent.com/MichMich/MagicMirror/master/installers/raspberry.sh)"`
+
+* https://github.com/MichMich/MagicMirror/wiki/Auto-Starting-MagicMirror
+  * Syntax Error: Block-scoped    
+ 
+<Manual Installation>
+
+`curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -`
+
+`sudo apt install -y nodejs`
+
+`git clone https://github.com/MichMich/MagicMirror`
+
+`cd MagicMirror/`
+
+`Install and run the app with: npm install && npm start`
+
+> Syntax Block Error
