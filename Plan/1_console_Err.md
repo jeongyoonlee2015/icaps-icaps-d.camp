@@ -54,4 +54,4 @@ Execute the following command on your Raspberry Pi to install MagicMirror²:
 
 > Syntax Block Error
 
-> Try New Format
+> Try New Formatting -> Magic Mirror
