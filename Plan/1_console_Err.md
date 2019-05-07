@@ -53,3 +53,5 @@ Execute the following command on your Raspberry Pi to install MagicMirror²:
 `Install and run the app with: npm install && npm start`
 
 > Syntax Block Error
+
+> Try New Format
