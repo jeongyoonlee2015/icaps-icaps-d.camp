@@ -55,3 +55,22 @@ Execute the following command on your Raspberry Pi to install MagicMirror²:
 > Syntax Block Error
 
 > Try New Formatting -> Magic Mirror
+---------
+2019.05.17
+
+# Unable to install dependencies!
+
+## Reason of Errors
+
+Trace
+1. npm problem: `apt-get install nodejs` (as root) to install Node.js v6.x and npm
+
+2. MagicMirror overlap
+
+navigated into the folder MagicMirror:
+npm start -> electron not installed fail.
+npm install -> npm start
+Bingo, we are running. No need to download any packages seperately.
+
+* Refer
+  * (1.2)[https://forum.magicmirror.builders/topic/1070/unable-to-install-dependencies/8]
