@@ -64,6 +64,9 @@ Execute the following command on your Raspberry Pi to install MagicMirror²:
 
 Trace
 1. npm problem: `apt-get install nodejs` (as root) to install Node.js v6.x and npm
+      edit: 05.22.2019
+      `npm -v` 6.4.1
+      `nodejs -v` 10.15.3
 
 2. MagicMirror overlap
 
