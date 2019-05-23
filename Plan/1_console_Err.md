@@ -81,6 +81,9 @@ Bingo, we are running. No need to download any packages seperately.
 * Refer
   * (1.2)[https://forum.magicmirror.builders/topic/1070/unable-to-install-dependencies/8]
 ## `cd ~/MagicMirror`
+
 `ls`
+
 `npm install`
+
 3. SD card -> Purchasing new SD card
