@@ -83,17 +83,20 @@ Bingo, we are running. No need to download any packages seperately.
 ## `cd ~/MagicMirror`
 
 `ls`
- CHANGELOG.md config installers node_modules splashschreen
+
+```
+CHANGELOG.md config installers node_modules splashschreen
  
- Gruntfile.js css js package-lock.json tests
+Gruntfile.js css js package-lock.json tests
  
 LICESNSE.md dangerfile.js jsconfig.json package.json translations
  
 README.md fonts module-types.ts run-start.sh vendor
 
 clientonly index.html modules serveronly
-
+```
 
 `npm install`
+
 
 3. SD card -> Purchasing new SD card
