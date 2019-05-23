@@ -98,5 +98,28 @@ clientonly index.html modules serveronly
 
 `npm install`
 
+```
+pi@raspberrypi:~/MagicMirror $ npm install
+npm WARN deprecated time-grunt@2.0.0: Deprecated because Grunt is practically unmaintained. 
+Move on to something better. 
+This package will continue to work with Grunt v1, but it will not receive any updates. 
+> electron@3.0.13 postinstall /home/pi/MagicMirror/node_modules/electron 
+> node install.js Downloading tmp-943-0-electron-v3.0.13-linux-armv7l.zip 
+Error: read ECONNRESET /home/pi/MagicMirror/node_modules/electron/install.js:49 throw 
+err ^ Error: read ECONNRESET at TLSWrap.onStreamRead (internal/stream_base_commons.js:111:27) 
+npm WARN acorn-jsx@5.0.1 requires a peer of acorn@^6.0.0 but none is installed. 
+You must install peer dependencies yourself. 
+npm WARN grunt-stylelint@0.11.0 requires a peer of stylelint@^10.0.0 but none is installed. 
+You must install peer dependencies yourself. 
+npm ERR! code ELIFECYCLE 
+npm ERR! errno 1 
+npm ERR! electron@3.0.13 postinstall: `node install.js` 
+npm ERR! Exit status 1 
+npm ERR! 
+npm ERR! Failed at the electron@3.0.13 postinstall script. 
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above. 
+npm ERR! A complete log of this run can be found in: npm ERR! /home/pi/.npm/_logs/2019-05-23T06_07_12_153Z-debug.log
+```
+
 
 3. SD card -> Purchasing new SD card
