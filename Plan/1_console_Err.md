@@ -121,5 +121,18 @@ npm ERR! This is probably not a problem with npm. There is likely additional log
 npm ERR! A complete log of this run can be found in: npm ERR! /home/pi/.npm/_logs/2019-05-23T06_07_12_153Z-debug.log
 ```
 
+---
 
+[Reference](https://forum.magicmirror.builders/topic/1046/problem-npm-install-npm-start/8)
+
+```
+update/install node via apt? Try apt-get update && apt-get upgrade or apt-get install nodejs and see, if it helps.
+
+If it doesn’t work, follow the instructions here, to install a recent version of node: https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+
+ 
+
+```
+
+---
 3. SD card -> Purchasing new SD card
