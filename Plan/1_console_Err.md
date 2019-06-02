@@ -133,7 +133,9 @@ If it doesn’t work, follow the instructions here, to install a recent version 
  
 
 ```
-* 시도하기
+* 시도하기(이와 유사하게)
+
 <img width="476" alt="스크린샷 2019-06-02 오후 9 47 39" src="https://user-images.githubusercontent.com/43804152/58761508-24ba2d80-8580-11e9-9c67-81c95d60f46a.png">
+
 ---
 3. SD card -> Purchasing new SD card
