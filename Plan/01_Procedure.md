@@ -5,3 +5,5 @@
 
 
 [go to console Err](https://github.com/jeongyoonlee2015/icaps-icaps-d.camp/blob/master/Plan/1_console_Err.md)
+
+[아두이노 센서값 받아오기](https://ssoonidev.tistory.com/56)
