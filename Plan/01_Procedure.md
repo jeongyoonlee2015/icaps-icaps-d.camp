@@ -6,7 +6,9 @@
 
 [go to console Err](https://github.com/jeongyoonlee2015/icaps-icaps-d.camp/blob/master/Plan/1_console_Err.md)
 
-
+1. Arduino Pressure Mat
+2. Raspberry Pi Installation
+3. Connect Arduino - Raspberry Pi
 
 
 -------
