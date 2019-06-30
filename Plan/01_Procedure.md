@@ -17,5 +17,29 @@
 [아두이노 센서값 받아오기](https://ssoonidev.tistory.com/56)
 
 [터치센서만들기](http://blog.naver.com/PostView.nhn?blogId=roboholic84&logNo=221387875217&categoryNo=7&parentCategoryNo=&from=thumbnailList)
+```
+void setup() {
+
+  // put your setup code here, to run once:
+
+Serial.begin(9600);
+
+}
+void loop() {
+
+  // put your main code here, to run repeatedly:
+
+int touch1 = analogRead(0);
+
+int touch2 = analogRead(1);
+
+Serial.print(touch1);
+
+Serial.print("\t");
+
+Serial.println(touch2);
+
+}
+```
 
 [압력센서](https://m.blog.naver.com/PostView.nhn?blogId=rhkd824&logNo=220555654394&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
