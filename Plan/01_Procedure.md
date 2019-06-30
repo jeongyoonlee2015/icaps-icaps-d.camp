@@ -16,6 +16,26 @@
 # 20190625
 [아두이노 센서값 받아오기](https://ssoonidev.tistory.com/56)
 
+```
+//OS: Raspberrian
+//Language: NodeJS
+
+$ dmesg | tail //포트번호확인
+$ npm install serialport --save // serial package 설치
+
+var SerialPort = require('serialport'),
+	portName = '/dev/ttyUSB0',
+	sp = new SerialPort(portName),
+	sensorVal = 0;
+
+sp.on('open', funtion(){
+	console.log('Serial Port OPEN');
+	sp.on('data', function(data){
+		console.log("Light Sensor Value: ", data[0]);
+	});
+});
+```
+
 [터치센서만들기](http://blog.naver.com/PostView.nhn?blogId=roboholic84&logNo=221387875217&categoryNo=7&parentCategoryNo=&from=thumbnailList)
 ```
 void setup() {
