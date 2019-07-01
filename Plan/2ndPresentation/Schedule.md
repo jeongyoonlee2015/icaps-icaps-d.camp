@@ -7,3 +7,4 @@
    * Product Description
    * Process Status
    * Problem and Solutions
+* product description의 전달력
