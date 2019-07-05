@@ -8,3 +8,9 @@
    * Process Status
    * Problem and Solutions
 * product description의 전달력
+
+
+<Feedback>
+  ### possibility of completion by
+  A: Hopefully..!
+  
