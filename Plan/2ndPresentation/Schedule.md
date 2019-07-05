@@ -10,7 +10,12 @@
 * product description의 전달력
 
 
-<Feedback>
-  ### possibility of completion by
+# <Feedback>
+
+### possibility of completion by
   A: Hopefully..!
+
+### Second material cost statement
+We're going to resubmit it today as a product discontinuation.
+-> Failed to submit...
   
