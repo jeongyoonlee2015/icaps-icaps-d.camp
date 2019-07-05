@@ -1,7 +1,8 @@
-#2ndInterim Presentation
+# 2ndInterim Presentation
 
 05.23.2019. -> Next Week
-07.05.2019. 3rd
+07.05.2019. 3rd ->  Last
+Presenter: Luqman Hakimi Bin Hamdan (Abam)
 * Contents
    * Overview
    * Product Description
