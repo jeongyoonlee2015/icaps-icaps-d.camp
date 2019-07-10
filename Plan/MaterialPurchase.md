@@ -2,5 +2,5 @@
 
 ## 1st - Arduino(Mecha Solution)
 
-## wnd - Raspberry Pi
+## 2nd - Raspberry Pi(IC banq)
 
