@@ -29,3 +29,4 @@ Vo = analogRead(FSRpin);  // 아날로그를 입력 받음 (0~1023)
 }
 
 ```
+<img width="412" alt="스크린샷 2019-07-14 오후 9 41 06" src="https://user-images.githubusercontent.com/43804152/61183916-5b588d00-a682-11e9-9a4d-b5c711df8b36.png">
