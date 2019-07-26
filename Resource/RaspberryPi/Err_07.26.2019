@@ -1,0 +1,19 @@
+https://github.com/nodejs/node-gyp/issues/809
+
+root@raspberrypi:~/MagicMirror/modules/MMM-AssistantMk2# ./node_modules/.bin/electron-rebuild
+
+An unhandled error occurred inside electron-rebuild
+Unable to find electron-prebuilt's version number, either install it or specify an explicit version
+
+Error: Unable to find electron-prebuilt's version number, either install it or specify an explicit version
+    at Object.<anonymous> (/root/MagicMirror/modules/MMM-AssistantMk2/node_modules/electron-rebuild/lib/src/cli.js:81:19)
+    at Generator.next (<anonymous>)
+    at /root/MagicMirror/modules/MMM-AssistantMk2/node_modules/electron-rebuild/lib/src/cli.js:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (/root/MagicMirror/modules/MMM-AssistantMk2/node_modules/electron-rebuild/lib/src/cli.js:4:12)
+    at /root/MagicMirror/modules/MMM-AssistantMk2/node_modules/electron-rebuild/lib/src/cli.js:70:8
+    at Object.<anonymous> (/root/MagicMirror/modules/MMM-AssistantMk2/node_modules/electron-rebuild/lib/src/cli.js:146:4)
+    at Module._compile (internal/modules/cjs/loader.js:776:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:787:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+root@raspberrypi:~/MagicMirror/modules/MMM-AssistantMk2# 
