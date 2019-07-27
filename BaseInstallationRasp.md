@@ -168,3 +168,8 @@ pm2 save
 pm2 stop MagicMirror
 ```
 
+------
+Reference
+1.
+2.
+3.
