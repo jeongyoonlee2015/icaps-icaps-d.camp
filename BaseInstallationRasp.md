@@ -32,6 +32,20 @@ MaigcMirror 테스트
 cd ~/MagicMirror/ 
 npm start 
 ```
+#### npm upgrade
+```
+npm upgrade: That Process was denied, so change user pi to root
+
+pi@raspberrypi:/root $ su -
+암호:
+root@raspberrypi:~# npm install -g npm@latest
+/usr/local/bin/npm -> /usr/local/lib/node_modules/npm/bin/npm-cli.js
+/usr/local/bin/npx -> /usr/local/lib/node_modules/npm/bin/npx-cli.js
++ npm@6.10.2
+added 1 package from 1 contributor, removed 13 packages and updated 63 packages in 25.439s
+root@raspberrypi:~# 
+
+```
 
 MagicMirror가 잘 실행되는지 확인후
 [Ctrl+Q]로 종료
