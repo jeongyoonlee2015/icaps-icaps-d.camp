@@ -162,6 +162,7 @@ sudo env PATH=$PATH:/usr/bin /usr/lib/node_modules/pm2/bin/pm2 startup systemd -
 pm2 start ~/MagicMirror/installers/pm2_MagicMirror.json
 pm2 save
 ```
+[Result]()
 
 ### 8.MagicMirror자동 실행 멈추는 방법
 ```
