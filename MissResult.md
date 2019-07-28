@@ -1,3 +1,5 @@
+# MissResult
+
 pi@raspberrypi:~/MagicMirror $ sudo npm install -g pm2
 
 /usr/local/bin/pm2 -> /usr/local/lib/node_modules/pm2/bin/pm2
