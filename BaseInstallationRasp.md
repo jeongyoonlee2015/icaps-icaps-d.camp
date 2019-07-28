@@ -74,6 +74,25 @@ npm install --save-dev electron-rebuild
 ./node_modules/.bin/electron-rebuild
 ```
 
+#### Electron
+And now just download and install Electron
+```
+sudo npm install -g electron --unsafe-perm=true --allow-root
+```
+If you want to test it, install Electron quick start app
+```
+# Clone this repository
+git clone https://github.com/electron/electron-quick-start
+# Go into the repository
+cd electron-quick-start
+# Install dependencies
+npm install
+# Set display
+export DISPLAY=:0
+# Run the app
+npm start
+```
+
 #### MMM-AssistantMk2설치
 ```
 cd ~/MagicMirror/modules/MMM-AssistantMk2/
