@@ -134,13 +134,21 @@ https://console.actions.google.com/
 
 https://console.cloud.google.com/
 에 접속하여 상단 프로젝트 선택에서 방금 만든 프로젝트 선택
+
 상단 검색에 Google Assistant API검색하여 해당 페이지의 "사용 설정" 클릭
+
 그후 왼쪽 메뉴의 "API 및 서비스">"사용자 인증 정보" 클릭
+
 "OAuth 동의 화면"탭의 정보 갱신
+
 "사용자 인증 정보 만들기">"OAuth 클라이언트 ID" 만들기
+
 "기타" 체크, 생성
+
 리스트에서 방금 만든 클라이언트의 가장 우측의 JSON 다운로드
+
 탐색기를 열어서 다운로드한 json파일을 credentials.json 으로 이름변경
+
 /home/pi/MagicMirror/modules/MMM-AssistantMk2/ 폴더 안으로 이동 시킴
 
 ```
