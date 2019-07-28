@@ -83,6 +83,17 @@ npm install --save-dev electron-rebuild
 chmod +x ~/MagicMirror/modules/MMM-AssistantMk2/scripts/*.sh
 ```
 
+#### ls results
+
+```
+pi@raspberrypi:~/MagicMirror/modules/MMM-AssistantMk2 $ ls
+CONFIGURATION.md      README.md                   node_helper.js     recipes
+INSTALL.md            USAGE.md                    node_modules       resources
+LICENSE               auth_and_test.js            package-lock.json  scripts
+MMM-AssistantMk2.css  deviceInstance.sample.json  package.json       tmp
+MMM-AssistantMk2.js   gaction                     profiles           vendor
+```
+
 #### 구글API설정
 https://console.actions.google.com/
 에 접속하여 구글 아이디로 로그인
