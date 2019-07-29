@@ -51,7 +51,8 @@ MagicMirror가 잘 실행되는지 확인후
 [Ctrl+Q]로 종료
 
 * 실행이 안될경우
-``` rm -rf ~/MagicMirror/ 
+```
+rm -rf ~/MagicMirror/ 
 ```
 설치한 MagicMirror를 삭제한후
 설치과정을 처음부터 다시
