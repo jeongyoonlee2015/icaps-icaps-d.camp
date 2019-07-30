@@ -120,6 +120,11 @@ chmod +x ~/MagicMirror/modules/MMM-AssistantMk2/scripts/*.sh
 ```
 ./node_modules/.bin/electron-rebuild --version=1.8.5
 ```
+##### ERROR Solution-2
+```
+sudo apt-get install build-essential 
+sudo npm install -g node-gyp
+```
 #### ls results
 
 ```
