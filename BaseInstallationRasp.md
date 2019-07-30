@@ -108,7 +108,7 @@ export DISPLAY=:0
 npm start
 ```
 
-#### MMM-AssistantMk2설치
+#### MMM-AssistantMk2설치 - ERR Point
 ```
 cd ~/MagicMirror/modules/MMM-AssistantMk2/
 npm install
@@ -116,7 +116,10 @@ npm install --save-dev electron-rebuild
 ./node_modules/.bin/electron-rebuild
 chmod +x ~/MagicMirror/modules/MMM-AssistantMk2/scripts/*.sh
 ```
-
+##### ERROR Solution-1
+```
+./node_modules/.bin/electron-rebuild --version=1.8.5
+```
 #### ls results
 
 ```
