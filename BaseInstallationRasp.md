@@ -104,6 +104,17 @@ rm -rf .git
 npm install nan
 npm install
 ```
+snowboy 디렉토리의 package.json 파일을 열고,
+```
+"dependencies": {
+    "node-pre-gyp": "^0.6.30"
+  },
+```
+```
+"node-pre-gyp": "^0.12.0"
+```
+버전 번호를 바꿔서 저장하시고 다시 npm install 
+
 워닝이나 에러가 나올 수 있는데, 워닝은 무시하시고, gyp 폴백 에러도 무시
 ```
 ./node_modules/node-pre-gyp/bin/node-pre-gyp clean configure build
