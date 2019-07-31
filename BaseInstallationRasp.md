@@ -88,6 +88,40 @@ npm install
 npm install --save-dev electron-rebuild
 ./node_modules/.bin/electron-rebuild
 ```
+### [Snowboy problem](https://github.com/eouia/MMM-Hotword/issues/36)
+```
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install libmagic-dev libatlas-base-dev
+sudo apt-get install sox libsox-fmt-all
+```
+```
+cd ~/MagicMirror/modules/MMM-Hotword/node_modules
+rm -rf snowboy
+git clone https://github.com/Kitt-AI/snowboy.git
+cd snowboy
+rm -rf .git
+npm install nan
+npm install
+```
+워닝이나 에러가 나올 수 있는데, 워닝은 무시하시고, gyp 폴백 에러도 무시
+```
+./node_modules/node-pre-gyp/bin/node-pre-gyp clean configure build
+```
+snowboy의 npm 패키지에 들어있는 gyp 관련 부분이 좀 엉망이라서 다시 깨끗하게 실행해줍니다.
+
+여기까지 되었다면 (에러가 나오든 워닝이 나오든간에..)
+`lib/node` 밑에 `index.js`, `index.ts` 두 개 파일이 존재.
+
+`lib/node/binding/Release` 밑에 `node-V57-linux-arm` (혹은 환경에 따라 조금 이름이 다를 수 있습니다) 폴더가 있고
+그 안에 `snowboy.node` 가 있어야 합니다.
+
+다시 매직미러의 electron을 위해 리빌딩.
+```
+npm install --save-dev electron-rebuild
+./node_modules/.bin/electron-rebuild
+```
+그러면 lib/node/binding/Release 밑에 electron-v3.0-linux-arm 뭐 이런 디렉토리가 생겼다면 인스톨이 성공한 것.
 
 #### Electron
 And now just download and install Electron
