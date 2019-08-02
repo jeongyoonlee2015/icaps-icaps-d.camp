@@ -67,7 +67,6 @@ var config = {
 				afternoon:[
 					  "Nice Captain",
 					  "Selamat petan"
-
 			  }
 			}
 		},
