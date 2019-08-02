@@ -6,6 +6,7 @@
  * For more information how you can configurate this file
  * See https://github.com/MichMich/MagicMirror#configuration
  *
+ * --완벽한 원본은 아님--
  */
 
 var config = {
