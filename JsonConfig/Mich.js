@@ -53,22 +53,6 @@ var config = {
 		{
 			module: "compliments",
 			position: "lower_third"
-			config: {
-			  compliments: {
-				anytime:[
-					"Hello, Captain11!",
-					"UKM X CBNU SMAT"
-				],
-				morning:[
-					"Hello,Captain",
-					"Selamat pagi",
-					"Good morning Captain"
-				],
-				afternoon:[
-					  "Nice Captain",
-					  "Selamat petan"
-			  }
-			}
 		},
 		{
 			module: "currentweather",
@@ -76,7 +60,7 @@ var config = {
 			config: {
 				location: "Seoul",
 				locationID: "",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "24e8ec656f3ef8f436abeefc89490047"
+				appid: ".."
 			}
 		},		{
 			module: "weatherforecast",
@@ -85,7 +69,7 @@ var config = {
 			config: {
 				location: "Seoul",
 				locationID: "1835847",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "24e8ec656f3ef8f436abeefc89490047"
+				appid: ".."
 			}
 		},
 		{
