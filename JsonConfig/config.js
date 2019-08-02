@@ -5,7 +5,7 @@
  *
  * For more information how you can configurate this file
  * See https://github.com/MichMich/MagicMirror#configuration
- *
+ * --SIMP + MichMich + Customizing==
  */
 
 var config = {
