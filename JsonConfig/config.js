@@ -77,7 +77,7 @@ var config = {
 			config: {
 				location: "Seoul",
 				locationID: "",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "24e8ec656f3ef8f436abeefc89490047"
+				appid: ".."
 			}
 		},		{
 			module: "weatherforecast",
@@ -86,7 +86,7 @@ var config = {
 			config: {
 				location: "Seoul",
 				locationID: "1835847",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "24e8ec656f3ef8f436abeefc89490047"
+				appid: ".."
 			}
 		},
 		{
