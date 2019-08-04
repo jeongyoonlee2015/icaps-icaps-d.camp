@@ -105,6 +105,68 @@ var config = {
 				broadcastNewsUpdates: true
 			}
 		},
+		{
+		      module: "MMM-AssistantMk2",
+  		      position: "top_right",
+      		config: {
+        	  record: {
+                    recordProgram : "arecord",  
+          	    device        : "plughw:1",
+        	},
+        	notifications: {
+          	  ASSISTANT_ACTIVATED: "HOTWORD_PAUSE",
+          	  ASSISTANT_DEACTIVATED: "HOTWORD_RESUME",
+        	},
+ 	        deviceLocation: {
+         	  coordinates: {
+            	    latitude: 37.57,
+                    longitude: 126.98
+          	   }
+                 },
+        	profiles: {
+          	  "default": {
+           	   lang: "ko-KR"
+          	  }
+ 	         }
+      		}
+	      },
+     	    {
+      	     module: "MMM-Hotword",
+      	     config: {
+        	snowboy: [
+          	 {
+	            hotwords: "smartmirror",
+        	    file: "resources/models/smart_mirror.umdl",
+            	    sensitivity: '1.0',
+                 },
+          	 {
+   	          hotwords: "snowboy",
+                  file: "resources/models/snowboy.umdl",
+            	  sensitivity: '1.0',
+          	 },
+           	 {
+	            file: 'resources/models/jarvis.umdl',
+        	    sensitivity: '0.8,0.80',
+            	    hotwords: ['jarvis', 'jarvis']
+         	 }
+	        ],
+        	 record: {
+          	   recordProgram : "arecord",  
+     	           device        : "plughw:1",
+        	 },
+	         autostart:true,
+        	 onDetected: {
+          	   notification: function (payload) {
+            		return "ASSISTANT_ACTIVATE"
+          	   },
+        	   payload: function (payload){
+            	     return {
+              		profile: payload.hotword
+            	       }
+	              }
+        	    },
+	          },
+	        },
 	]
 
 };
