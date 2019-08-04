@@ -5,7 +5,7 @@
  *
  * For more information how you can configurate this file
  * See https://github.com/MichMich/MagicMirror#configuration
- * --SIMP + MichMich + Customizing==
+ *
  */
 
 var config = {
@@ -45,7 +45,7 @@ var config = {
 				calendars: [
 					{
 						symbol: "calendar-check",
-						url: "https://calendar.google.com/calendar/ical/2019captain11%40gmail.com/private-54ccbdf0a89e8f20a3dc94d991308ef5/basic.ics"
+						url: ""
 					}
 				]
 			}
@@ -77,7 +77,7 @@ var config = {
 			config: {
 				location: "Seoul",
 				locationID: "",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: ".."
+				appid: ""
 			}
 		},		{
 			module: "weatherforecast",
@@ -86,7 +86,7 @@ var config = {
 			config: {
 				location: "Seoul",
 				locationID: "1835847",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: ".."
+				appid: ""
 			}
 		},
 		{
