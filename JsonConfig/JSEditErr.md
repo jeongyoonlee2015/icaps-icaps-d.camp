@@ -75,3 +75,14 @@
     Stopping module helper: calendar
     pi@raspberrypi:~/MagicMirror $ 
 ```
+
+-----
+`npm start dev`로 디벨로퍼 모드로 실행시켜봅시다. 
+
+`cd ~/MagicMirror & npm start dev` 그러면 Chrome에서 F12 디벨로퍼모드 실행시킨 것과 비슷하게 매직미러와 함께 콘솔윈도우가 뜹니다. 
+
+보통은 프론트단의 문제가 있는 경우 여기에 에러메시지가 보입니다.
+
+아까 `npm start dev`를 실행시켰던 터미널창에서는 서버단의 에러메시지가 보입니다. 
+
+두 군데를 모두 보셔서 의심스러운 메시지가 있는지 확인하세요.
