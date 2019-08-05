@@ -86,3 +86,6 @@
 아까 `npm start dev`를 실행시켰던 터미널창에서는 서버단의 에러메시지가 보입니다. 
 
 두 군데를 모두 보셔서 의심스러운 메시지가 있는지 확인하세요.
+
+----
+https://github.com/dr4ke616/MMM-Voice-Control#configuration-options
