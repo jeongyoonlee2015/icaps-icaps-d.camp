@@ -89,3 +89,11 @@
 
 ----
 https://github.com/dr4ke616/MMM-Voice-Control#configuration-options
+https://github.com/MichMich/MagicMirror/wiki/Voice-Related-Modules
+
+----
+1. Mich config Example은 작동
+2. Simpteam config는 화면 안 뜸
+3. Mich에 simpteam config 합치면 화면 안 뜸(version problem)
+        at Object.<anonymous> (/home/pi/MagicMirror/modules/MMM-AssistantMk2/node_modules/grpc/src/grpc_extension.js:53:17)정상
+        at Object.<anonymous> (/home/pi/MagicMirror/modules/MMM-AssistantMk2/node_modules/grpc/src/grpc_extension.js:53:17)
