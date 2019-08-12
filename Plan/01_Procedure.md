@@ -65,3 +65,8 @@ Serial.println(touch2);
 [압력센서](https://m.blog.naver.com/PostView.nhn?blogId=rhkd824&logNo=220555654394&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 [블루투스 연동](https://webnautes.tistory.com/995)
+
+----
+
+* 블루투스 연동 문제
+* 디바이스 호환 문제
