@@ -104,6 +104,31 @@ var config = {
 			config: {
 			}
 		},
+			{
+	    disabled: false,
+	    module: "MMM-BMI",
+	    position: "top_left",
+	    config: {
+	        name: "Captain",                    // Your name
+	        imperialUnits: true,		      // true or (false = metric)
+	        weight: "155",                    // lbs and inches or kg and m
+	        height: "71",                     // lbs and inches or kg and m
+	        herName: "SMAT",
+	        herWeight: "100",                 // lbs and inches or kg and m
+	        herHeight: "65",                 // lbs and inches or kg and m
+	        useHeader: true,                 // true if you want a header
+	        header: "YOUR BODY MASS INDEX",
+	        maxWidth: "350px",
+	    }
+		},
+		{
+			module: 'MMM-AirQuality',
+			position: 'top_right', // you may choose any location
+			config: {
+	  		location: 'daejeon' // the location to check the index for
+				}
+		},
+		
 		{
 			module: "newsfeed",
 			position: "bottom_bar",
