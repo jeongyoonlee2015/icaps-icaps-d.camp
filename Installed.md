@@ -4,7 +4,7 @@
 [GoogleFit](https://github.com/amcolash/MMM-GoogleFit)<br>
 [BMI](https://github.com/mykle1/MMM-BMI)<br>
 [AirQuality](https://github.com/CFenner/MMM-AirQuality)<br>
-
+[DailyAlarm](https://github.com/eouia/MMM-DailyAlarm)<br>
 
 ---
 설치만 된 것<br>
