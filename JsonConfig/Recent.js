@@ -51,6 +51,17 @@ var config = {
 			}
 		},
 		{
+			module:"compliments",
+			position: "top_bar",
+			config:{
+				compliments: {
+					anytime:[
+						"172cm"
+					]
+				}
+			}
+		},
+		{
 			module: "compliments",
 			position: "lower_third",
 			config: {
