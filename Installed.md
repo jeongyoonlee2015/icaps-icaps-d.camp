@@ -7,3 +7,8 @@
 [BMI](https://github.com/mykle1/MMM-BMI)
 
 [AirQuality](https://github.com/CFenner/MMM-AirQuality)
+
+
+---
+설치만 된 것
+[날씨별옷](https://github.com/fruestueck/MMM-WeatherDependentClothes)
