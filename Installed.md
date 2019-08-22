@@ -11,9 +11,12 @@
 
 ---
 설치만 된 것
+
 [날씨별옷](https://github.com/fruestueck/MMM-WeatherDependentClothes)
 
 
 ---
 설치하고 싶은거
-[휴대폰연동알림](https://github.com/ronny3050/phone-notification-mirror)
+
+[휴대폰연동알림1](https://github.com/ronny3050/phone-notification-mirror)
+[휴대폰연동알림2](https://github.com/paviro/MMM-FRITZ-Box-Callmonitor)
