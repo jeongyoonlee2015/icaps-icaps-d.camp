@@ -56,8 +56,8 @@ var config = {
 			config: {
 			  compliments: {
 				anytime:[
-					"Hello, Captain11!",
-					"UKM X CBNU SMAT"
+					"UKM X CBNU SMAT",
+					"Hello, Captain11!"
 				],
 				morning:[
 					"Hello,Captain",
@@ -75,7 +75,7 @@ var config = {
 			module: "currentweather",
 			position: "top_right",
 			config: {
-				location: "Seoul",
+				location: "Daejeon",
 				locationID: "",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
 				appid: "24e8ec656f3ef8f436abeefc89490047"
 			}
@@ -84,8 +84,8 @@ var config = {
 			position: "top_right",
 			header: "Weather Forecast",
 			config: {
-				location: "Seoul",
-				locationID: "1835847",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				location: "Daejeon",
+				locationID: "1835235",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
 				appid: "24e8ec656f3ef8f436abeefc89490047"
 			}
 		},
@@ -95,7 +95,7 @@ var config = {
 			config: {
 				feeds: [
 					{
-						title: "New York Times",
+						title: "oh my news",
 						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
 					}
 				],
