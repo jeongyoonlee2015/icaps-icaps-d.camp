@@ -52,11 +52,11 @@ var config = {
 		},
 		{
 			module:"compliments",
-			position: "top_bar",
+			position: "top_left",
 			config:{
 				compliments: {
 					anytime:[
-						"172cm"
+						"HEIGT: 175cm"
 					]
 				}
 			}
@@ -82,22 +82,26 @@ var config = {
 			  }
 			}
 		},
+
+    {
+      module: "MMM-DarkSkyForecast",
+      header: "Weather Forecast: Daejeon",
+      position: "top_right",
+      classes: "default everyone",
+      disabled: false,
+      config: {
+        apikey: "a2a06f1b519edad7ea7950f0d00b6e5d",
+        latitude: "36.330101",
+        longitude: "127.422470",
+        iconset: "4c",
+        concise: false,
+        forecastLayout: "table"
+      }
+    },
 		{
-			module: "currentweather",
-			position: "top_right",
+			module: 'MMM-GoogleFit',
+			position: "top_left",
 			config: {
-				location: "Daejeon",
-				locationID: "",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "24e8ec656f3ef8f436abeefc89490047"
-			}
-		},		{
-			module: "weatherforecast",
-			position: "top_right",
-			header: "Weather Forecast",
-			config: {
-				location: "Daejeon",
-				locationID: "1835235",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				appid: "24e8ec656f3ef8f436abeefc89490047"
 			}
 		},
 		{
