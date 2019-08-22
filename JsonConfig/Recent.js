@@ -96,7 +96,8 @@ var config = {
 				feeds: [
 					{
 						title: "oh my news",
-						url: "http://rss.ohmynews.com/rss/ab_reporter.xml"
+						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+						//url: "http://rss.ohmynews.com/rss/ab_reporter.xml"안 됨
 					}
 				],
 				showSourceTitle: true,
