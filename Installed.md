@@ -5,3 +5,5 @@
 [GoogleFit](https://github.com/amcolash/MMM-GoogleFit)
 
 [BMI](https://github.com/mykle1/MMM-BMI)
+
+[AirQuality](https://github.com/CFenner/MMM-AirQuality)
