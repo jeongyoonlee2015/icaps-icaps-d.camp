@@ -1,4 +1,5 @@
 # SMAT(Smart Mat) (init 01.25.19)
+# Done: 01.25.2019. - 08.23.2019.
 ## I-Caps
 The International Students Joint Capstone Design Project (i-CAPS).
 
@@ -39,7 +40,7 @@ The i-CAPS program and the  which include International Students Multidisciplina
   * 2nd Presentation : 04.12.19, `On-line` (Team 11 Presenter: Luqman Hakimi)
   * 3rd Presentation : 05.23.19, `On-line` -> 02-03.07.19
   * Deadline : 08.21.19, `Product`
-  * 2nd D.Camp : 08.22.19 - 08.26.19, South Korea, `Off-line`
+  * 2nd D.Camp : 08.22.19 - 08.26.19, kt human resource development center, Daejeon, South Korea, `Off-line`
   * Implementation : 04.14.19.
 
 * [Work Flow](https://github.com/jeongyoonlee2015/icaps-icaps-d.camp/blob/master/Plan/00.Work_Flow.md)  
