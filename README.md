@@ -1,5 +1,7 @@
 # SMAT(Smart Mat) (init 01.25.19)
-# Done: 01.25.2019. - 08.23.2019.
+# Done: 01.25.2019. - 08.23.2019.--Silver Prize--
+
+Final Product Top 3
 ## I-Caps
 The International Students Joint Capstone Design Project (i-CAPS).
 
